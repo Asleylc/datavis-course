@@ -1,5 +1,5 @@
 ## Aula do dia 04/09/2019
-[notebook.html](d3_intro/notebook.html)<br>
+[Notebook.html](d3_intro/Notebook.html)<br>
 
 
 ## Aula do dia 02/09/2019
