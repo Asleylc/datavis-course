@@ -1,14 +1,17 @@
+## Aula do dia 25/09/2019
+[index.html](d3_crossfilter_2/index.html)<br>
+
+## Aula do dia 23/09/2019
+[index.html](d3_crossfilter/index.html)<br>
+
 ## Aula do dia 16/09/2019
 [scatter_update.html](d3_update/scatter_update.html)<br>
-
 
 ## Aula do dia 11/09/2019
 [scatter.html](d3_scale/scatter.html)<br>
 
-
 ## Aula do dia 04/09/2019
 [Notebook.html](d3_intro/Notebook.html)<br>
-
 
 ## Aula do dia 02/09/2019
 
