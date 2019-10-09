@@ -1,0 +1,14 @@
+{
+  "name": "@asleylc/similar-song-network",
+  "main": "d/59c34b2123906c49.js",
+  "version": "162.0.0",
+  "homepage": "https://observablehq.com/@asleylc/similar-song-network",
+  "author": {
+    "name": "asleylc",
+    "url": "https://observablehq.com/@asleylc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
