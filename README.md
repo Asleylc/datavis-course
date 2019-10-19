@@ -1,3 +1,9 @@
+## Aula do dia 16/10/2019
+[index.html](d3_color_2/index.html)<br>
+
+## Aula do dia 16/10/2019
+[index.html](d3_color/index.html)<br>
+
 ## Aula do dia 09/10/2019
 [index.html](d3_network_2/index.html)<br>
 
