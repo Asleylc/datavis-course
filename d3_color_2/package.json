@@ -1,0 +1,14 @@
+{
+  "name": "d6c562211d5fec96",
+  "main": "d/d6c562211d5fec96.js",
+  "version": "162.0.0",
+  "homepage": "https://observablehq.com/d/d6c562211d5fec96",
+  "author": {
+    "name": "asleylc",
+    "url": "https://observablehq.com/@asleylc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
