@@ -1,3 +1,5 @@
+https://asleylc.github.io/datavis-course/
+
 ## Aula do dia 23/10/2019
 [index.html](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2/index.html)<br>
 
